@@ -12,26 +12,31 @@ Given the starter code of a working Express.js API, code was configured to use S
 [![.ENV Badge](https://img.shields.io/badge/.ENV-ECD53F?logo=dotenv&logoColor=000&style=flat)](https://www.npmjs.com/package/dotenv)
 
 
-![e-commerce-backend](./public/assets/images/note-taker.jpg)
-Watch the [video demonstration](https://watch.screencastify.com/v/rrfP6NhcUkSguqPBb9XE) to view basic functionality.
+The following animation shows the application's POST, PUT, and DELETE routes for categories being tested in Insomnia:
+![e-commerce-backend](./assets/images/eCom_%20Jun%202%2C%202023%2012_04%20PM.gif)
 
-- below GIF file showing the functionality of the application.
-  ![]()
+Watch the [video demonstration](https://watch.screencastify.com/v/RrzdGUa96Yp997PfFmMy) to view basic functionality.
+
 
 ## Table of Contents
 
 * [Installation](#installation)
-* [Deployment](#deployment)
+* [Usage](#usage)
 * [License](#license)
 * [Contributing](#contributing)
 * [Questions](#questions)
 
 ## Installation
 
+* Install Node.js,If node is not installed. 
+* Clone this project repository to your computer. 
+* Install dependencies use the command `npm i`. 
+* Create a file `.env` and include database name and personal MySQL login information
 
-## Deployment
+## Usage
+
+The app is used to GET data for each route(categories, products, or tags) as well as create, update, and delete data in those routes.
  
-
 
 
 
